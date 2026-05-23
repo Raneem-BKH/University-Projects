@@ -1,1 +1,1 @@
-# University-Projects
+#Haden_Project AI Companion
